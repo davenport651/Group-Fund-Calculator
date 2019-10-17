@@ -1,0 +1,6 @@
+Member,Date,Memo,Withdrawal,Deposit,Balance,
+John Smith,1/25/2010,Initial Deposit,,300.00,300.00,
+Jane Smith,1/25/2010,Initial Deposit,,30.00,330.00,
+Mr. Doe,2/24/2010,Initial Deposit,,150.00,480.00,
+Common,3/31/2010,Interest,,0.04,480.04,
+Common,3/28/2011,Purchase property,200,,280.04,
