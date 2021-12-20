@@ -2,7 +2,7 @@
 ' -Calculates how much each member contributed.
 ' -Looks for file "Group Fund.csv"
 ' 
-' Marcus Davenport 2010
+' Davenport651 2010
 
 Const ForReading = 1
 strInputPath = "Group Fund.csv"
